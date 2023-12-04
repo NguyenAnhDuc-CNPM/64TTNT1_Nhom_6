@@ -1,13 +1,7 @@
 # 64TTNT1_Nhom_6
 Dự án website AMSREAD
 
-
-
-
-
-
-
-
+Giảng viên hướng dẫn: Nguyễn Thị Thu Hương
 
 Thành viên nhóm:   
 
